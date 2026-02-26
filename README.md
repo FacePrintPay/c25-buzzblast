@@ -12,6 +12,6 @@ chmod +x buzzblast.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/constellation25-mono/AiKre8tive-Stargate/buzzblast.sh
+/data/data/com.termux/files/home/buzzblast.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
